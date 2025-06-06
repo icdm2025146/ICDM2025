@@ -1,4 +1,4 @@
-# BrainAge__Federated_Learning
+# Brain_Age_Prediction__Federated_Learning
 ##### OA : The ML model is trained individually with all silos data
 
 ##### OB: The ML model is trained with all silo data in a centralized setup
